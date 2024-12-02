@@ -7,8 +7,9 @@
 Если он не распознаётся программой, открыть его через правую кнопку "Открыть с помощью..." и выбрать AutoHotkey в качестве программы по умолчанию. 
 Можно нажать Compile Script и использовать полученный экзешник.
 
-> pssuspend.exe и  pskill.exe можно скачать с сайта Майкрософт https://docs.microsoft.com/en-us/sysinternals/downloads/pssuspend
->
+---
+Для работы дисконекта нужно скачать файлы pssuspend.exe и pskill.exe с сайта Майкрософт https://docs.microsoft.com/en-us/sysinternals/downloads/pssuspend
+
 Их необходимо один раз предварительно запустить и согласится с лицензией. Положить в корневую папку макроса (рядом с exe).
 
 ---
