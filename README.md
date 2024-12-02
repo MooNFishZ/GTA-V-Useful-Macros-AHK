@@ -1,5 +1,5 @@
 # GTA-V-Useful-Macros-AHK
-Макрос GTAV под AutoHotKey для быстрого вызова М-меню.
+Макрос Grand Theft Auto V под AutoHotKey для быстрого вызова М-меню в мультиплеере.
 
 1) Установить https://www.autohotkey.com/
 2) В настройках игры GTA5 выбрать оконный режим без рамки
