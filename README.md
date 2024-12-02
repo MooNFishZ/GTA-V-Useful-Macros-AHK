@@ -8,9 +8,16 @@
 Можно нажать Compile Script и использовать полученный экзешник.
 
 ---
-Для работы дисконекта нужно скачать файлы pssuspend.exe и pskill.exe с сайта Майкрософт https://docs.microsoft.com/en-us/sysinternals/downloads/pssuspend
+Для работы дисконекта и быстрого выключения нужно скачать файлы pssuspend.exe и pskill.exe с сайта Майкрософт https://docs.microsoft.com/en-us/sysinternals/downloads/pssuspend
 
 Их необходимо один раз предварительно запустить и согласится с лицензией. Положить в корневую папку макроса (рядом с exe).
+
+
+---
+
+Пока скрипт не закончит действия, не стоит ничего нажимать.
+Если вы запустите игру ПОСЛЕ запуска скрипта AHK, скрипты могут не работать. Перезагрузка макроса обычно исправляет это (правый клик по значку в трее -> reload script).
+
 
 ---
 
@@ -20,7 +27,7 @@ GTA V Useful Macros... numpad - версия на нампаде.
 
 ---
 
-Кнопки можно менять:
+### Кнопки можно менять:
 
 "sc002" - шестнадцатиричная система чисел для любого языка раскладки https://www.autohotkey.com/docs/commands/GetKey.htm.
 Список кнопок https://www.autohotkey.com/docs/KeyList.htm.
@@ -29,7 +36,7 @@ GTA V Useful Macros... numpad - версия на нампаде.
 
 ---
 
-Благодарности:
+### Благодарности:
 
 Первоначальный скрипт от twentyafterfour https://www.reddit.com/r/GrandTheftAutoV_PC/comments/34vdrt/i_made_some_useful_macros_for_heistsgeneral/
 
@@ -37,4 +44,4 @@ GTA V Useful Macros... numpad - версия на нампаде.
 
 Руководство в Steam, где люди выкладывали свои версии и идеи http://steamcommunity.com/sharedfiles/filedetails/?id=502212548
 
-> Дополнительная благодарность ZacharyV, godOFslaves, Xo39uH_u3_CCC за версию, с которой я начал изучать AHK.
+Дополнительная благодарность ZacharyV, godOFslaves, Xo39uH_u3_CCC за версию, с которой я начал изучать AHK.
